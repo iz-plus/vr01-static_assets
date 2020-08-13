@@ -1,7 +1,7 @@
 {
   "name": "summer",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "node node_modules/react-360/scripts/packager.js",
     "bundle": "node node_modules/react-360/scripts/bundle.js && cp -rp ./static_assets ./build/ ",
