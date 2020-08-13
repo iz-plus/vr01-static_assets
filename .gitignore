@@ -2,5 +2,5 @@
 *~
 *.log
 *.js.meta
-node_modules/
+
 build/
